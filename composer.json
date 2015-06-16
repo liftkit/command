@@ -1,0 +1,25 @@
+{
+	"name": "liftkit/command",
+	"description": "Library for working with shell commands",
+	"license": "LGP-2.1",
+	"authors": [
+		{
+			"name": "Ryan Williams",
+			"email": "rwilliams@stream9.net",
+			"homepage": "https://www.stream9.net",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"LiftKit\\": "src/",
+			"LiftKit\\Tests\\Helpers\\": "tests/helpers/",
+			"LiftKit\\Tests\\Stub\\": "tests/stub/",
+			"LiftKit\\Tests\\Unit\\": "tests/unit/"
+		}
+	},
+	"require": {},
+	"require-dev": {
+		"phpunit/phpunit": "~4.5"
+	}
+}
