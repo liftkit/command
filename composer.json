@@ -1,7 +1,7 @@
 {
 	"name": "liftkit/command",
 	"description": "Library for working with shell commands",
-	"license": "LGP-2.1",
+	"license": "LGPL-2.1-only",
 	"authors": [
 		{
 			"name": "Ryan Williams",
